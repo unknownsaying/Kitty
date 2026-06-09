@@ -3,7 +3,7 @@ static void Switch(){
 case1:
     "interface && namespace";
 case2:
-    "internal && extern";
+    "internal && external";
 case3:
     "implicit && explicit";
 //separate
